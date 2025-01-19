@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution Code](https://your-solution-url.com)
-- Live Site URL: [Live Demo](https://your-live-site-url.com)
+- Solution URL: [Solution Code](https://github.com/Adnan0-IM/Article-preview-component)
+- Live Site URL: [Live Demo](https://frabjous-haupia-a84aac.netlify.app/)
 
 ## My process
 
